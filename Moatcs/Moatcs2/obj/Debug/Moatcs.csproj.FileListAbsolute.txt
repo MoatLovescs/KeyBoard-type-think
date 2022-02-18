@@ -1,0 +1,8 @@
+D:\vstol\Moatcs\Moatcs\bin\Debug\Moatcs.exe.config
+D:\vstol\Moatcs\Moatcs\bin\Debug\Moatcs.exe
+D:\vstol\Moatcs\Moatcs\bin\Debug\Moatcs.pdb
+D:\vstol\Moatcs\Moatcs\obj\Debug\Moatcs.csproj.AssemblyReference.cache
+D:\vstol\Moatcs\Moatcs\obj\Debug\Moatcs.csproj.SuggestedBindingRedirects.cache
+D:\vstol\Moatcs\Moatcs\obj\Debug\Moatcs.csproj.CoreCompileInputs.cache
+D:\vstol\Moatcs\Moatcs\obj\Debug\Moatcs.exe
+D:\vstol\Moatcs\Moatcs\obj\Debug\Moatcs.pdb
